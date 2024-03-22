@@ -2,10 +2,10 @@
 
 Powersite Online Solutions 
 [https://Powersite.online]
-
 "Building dreams, one site at a time."
 
-Power Websites:
+
+Powersite Websites:
 1. PowerShopping
 2. PowerAds
 3. PowerIncome
