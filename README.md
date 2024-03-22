@@ -6,15 +6,16 @@ Powersite Online Solutions
 "Building dreams, one site at a time."
 
 Power Websites:
-1. Powershopping
-2. Powerads
-3. Powerincome
-4. Powervault
-5. Powertrading
-6. Powercoin
-7. Powertoken
+1. PowerShopping
+2. PowerAds
+3. PowerIncome
+4. PowerVault
+5. PowerTrading
+6. PowerCoin
+7. PowerToken
 8. PowerNFT
-9. Powerbinary 
-10. Powerticket
-
+9. PowerBinary 
+10. PowerTicket
+11. PowerPost
+12. PowerChip
 
