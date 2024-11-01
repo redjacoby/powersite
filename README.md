@@ -7,10 +7,10 @@ Powersite Online Solutions
 
 Powersite Websites:
 1. PowerPost
-2. PowerAds
+2. PowerChip
 3. PowerIncome
-4. PowerVault
-5. PowerChip
+4. PowerTicket
+5. PowerAds
 6. PowerCoin
-7. PowerChip
+7. more soon!
 
