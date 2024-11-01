@@ -1,6 +1,6 @@
 # Powersite Online Solutions
 
-Powersite Online Solutions 
+Powersite Online Solutions <br><br>
 "Crafting Business Websites. Empowering Entrepreneurs. Building Dreams, One Site at a time!"
 
 Powersite Websites:
