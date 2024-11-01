@@ -1,9 +1,7 @@
 # Powersite Online Solutions
 
 Powersite Online Solutions 
-[https://Powersite.online]<br>
-"Building dreams, one site at a time!"
-
+"Crafting Business Websites. Empowering Entrepreneurs. Building Dreams, One Site at a time!"
 
 Powersite Websites:
 1. PowerPost
