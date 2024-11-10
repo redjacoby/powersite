@@ -3,11 +3,13 @@
 "Crafting Business Websites. Empowering Entrepreneurs. Building Dreams, One Site at a time!"
 
 Powersite Websites:
-1. PowerPost
-2. PowerChip
-3. PowerIncome
-4. PowerTicket
-5. PowerAds
-6. PowerCoin
-7. more soon!
+1. PowerSale
+2. PowerBinary
+3. PowerPost
+4. PowerAds
+5. PowerChip
+6. PowerIncome
+6. PowerTicket
+7. PowerCoin
+8. more soon!
 
