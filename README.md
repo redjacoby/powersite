@@ -1,6 +1,6 @@
 # Powersite Online Solutions
 
-"Crafting Business Websites. Empowering Entrepreneurs. Building Dreams, One Site at a time!"
+"We make Online Businesses. We Build Dreams, One Website at a time!"
 
 Powersite Websites:
 1. PowerSale
